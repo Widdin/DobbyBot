@@ -1,5 +1,5 @@
 # DobbyBot
-A Discord bot that helps Harry Potter: Wizards Unite communities.
+A Discord bot that helps Harry Potter: Wizards Unite communities.  
 DobbyBot is a Discord bot written in Python 3.6.
 
 ## Discord
