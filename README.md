@@ -33,3 +33,6 @@ Invite - https://discord.gg/QzgGtTn
 - `!slytherin` - Assigns you to the role Slytherin.  
 - `!ravenclaw` - Assigns you to the role Ravenclaw.  
 - `!hufflepuff` - Assigns you to the role Hufflepuff.  
+  
+    
+![Healing Potion](https://raw.githubusercontent.com/OfficialWiddin/DobbyBot/master/assets/healingPotion.PNG)
