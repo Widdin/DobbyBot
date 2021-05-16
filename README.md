@@ -4,9 +4,9 @@ DobbyBot is a Discord bot written in Python 3.6.
 
 ## Discord
 Join the server to get help, make a suggestion or just chat!  
-Invite - https://discord.gg/QzgGtTn
+[![Discord](https://discordapp.com/api/guilds/592328878920302593/widget.png?style=banner3)](https://discord.gg/QzgGtTn)
 
-## How to run DobbyBot on your server:
+## How to invite DobbyBot to your server
 1. Invite DobbyBot - https://discordapp.com/oauth2/authorize?client_id=558291484877783071&scope=bot&permissions=1342532672
 2. Go to a channel in your server and run `!setup` one time and wait for it to finish.
 
