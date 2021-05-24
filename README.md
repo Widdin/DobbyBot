@@ -21,6 +21,11 @@ Join the server to get help, make a suggestion or just chat!
 - `!help` - Displays available commands and other info.  
 - `!dobby` - Random quote from Dobby.  
 - `!potion <name>` - Information about a potion.  
+- `!list` - List of available list-commands.  
+- `!list potions` - List of available potions in the game.  
+- `!list notes` - List of available master notes in the game.   
+- `!greenhouse <location> , <plant> , <time>` - Countdown for harvesting.
+- `!greenhouse` - Same as the command above but you will answer questions in PM.
 
 #### Professions
 - `!auror` - Assigns you to the role Auror.  
