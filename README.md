@@ -20,6 +20,7 @@ Join the server to get help, make a suggestion or just chat!
 #### Common  
 - `!help` - Displays available commands and other info.  
 - `!dobby` - Random quote from Dobby.  
+- `!stats` - Image with profession & house distribution.  
 - `!potion <name>` - Information about a potion.  
 - `!list` - List of available list-commands.  
 - `!list potions` - List of available potions in the game.  
