@@ -1,0 +1,170 @@
+{
+    "Baruffio's Brain Elixir": {
+    "description": "Grants double Wizarding XP from Traces, Wizarding Challenges and Portkeys. Duration: 30 minutes.",
+    "unlocks": 4,
+    "brewing": "12h 0m",
+    "ingredients": [
+      ["Leaping Toadstool", 2],
+      ["Frog Brain", 1],
+	  ["Runespoor Eggs", 1],
+	  ["Powdered Dragon Claw", 1]
+    ],
+    "notes": [
+	  "Clockwise",
+	  "Pinch In",
+	  "Horizontal",
+	  "Horizontal",
+	  "Pinch Out",
+	  "Shake"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Baruffio%26%23039%3Bs%20Brain%20Elixir.png"
+  },
+    "Dawdle Draught": {
+    "description": "Reduces the Confoundable's likelihood of fleeing with the Foundable, giving you more chances to complete a Trace. Duration: 3 spell casts.",
+    "unlocks": 10,
+    "brewing": "6h 0m",
+    "ingredients": [
+      ["Valerian Root", 2],
+      ["Sopophorus Bean", 1],
+      ["Butterscotch", 1],
+      ["Hermit Crab Shell", 1]
+    ],
+    "notes": [
+	  "Shake",
+	  "Clockwise",
+	  "Counter Clockwise",
+	  "Counter Clockwise",
+	  "Pinch In"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Dawdle%20Draught.png"
+  },
+    "Exstimulo Potion": {
+    "description": "Improves your spell cast in Traces and Wizarding Challenges. Duration: 3 spell casts.",
+    "unlocks": 4,
+    "brewing": "2h 0m",
+    "ingredients": [
+      ["Bitter Root", 1],
+      ["Re'em Blood", 1],
+      ["Snowdrop", 1],
+      ["Granian Hair", 1]
+    ],
+    "notes": [
+	  "Vertical",
+	  "Vertical",
+	  "Clockwise"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Exstimulo%20Potion.png"
+  },
+    "Healing Potion": {
+    "description": "Restores 35% of your maximum Stamina when you've taken damage in Oddity Traces and Wizarding Challenges.",
+    "unlocks": 6,
+    "brewing": "2h 0m",
+    "ingredients": [
+      ["Wormwood", 1],
+      ["Bubotuber Pus", 3],
+      ["Dittany", 2],
+      ["Dragon Liver", 1]
+    ],
+    "notes": [
+	  "Pinch Out",
+	  "Clockwise",
+	  "Tap",
+	  "Pinch In"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Healing%20Potion.png"
+  },
+    "Invigoration Draught": {
+    "description": "Grants 1 Focus for casting Strategic Spells in Wizarding Challenges.",
+    "unlocks": 8,
+    "brewing": "3h 0m",
+    "ingredients": [
+      ["Honeywater", 1],
+      ["Vervain Infusion", 1],
+      ["Scurvygrass", 1],
+      ["Lovage", 2]
+    ],
+    "notes": [
+	  "Horizontal",
+	  "Vertical",
+	  "Vertical",
+	  "Pinch Out"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Weak%20Invigoration%20Potion.png"
+  },
+    "Potent Exstimulo Potion": {
+    "description": "Tremendously improves your spell cast in Traces and Wizarding Challenges. Duration: 5 spell casts.",
+    "unlocks": 9,
+    "brewing": "8h 0m",
+    "ingredients": [
+      ["Bitter Root", 4],
+      ["Snowdrop", 6],
+      ["Re'em Blood", 2],
+      ["Unicorn Hair", 1]
+    ],
+    "notes": [
+	  "Vertical",
+	  "Horizontal",
+	  "Vertical",
+	  "Counter Clockwise",
+	  "Clockwise",
+	  "Counter Clockwise"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Potent%20Exstimulo%20Potion.png"
+  },
+    "Strong Exstimulo Potion": {
+    "description": "Strongly improves your spell cast in Traces and Wizarding Challenges. Duration: 4 spell casts.",
+    "unlocks": 1,
+    "brewing": "4h 0m",
+    "ingredients": [
+      ["Bitter Root", 3],
+      ["Snowdrop", 4],
+      ["Abraxan Hair", 1],
+      ["Re'em Blood", 1]
+    ],
+    "notes": [
+	  "Vertical",
+	  "Vertical",
+	  "Counter Clockwise",
+	  "Clockwise"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Strong%20Exstimulo%20Potion.png"
+  },
+    "Strong Invigoration Draught": {
+    "description": "Grants 3 Focus for casting Strategic Spells in Wizarding Challenges.",
+    "unlocks": 13,
+    "brewing": "6h 0m",
+    "ingredients": [
+      ["Honeywater", 1],
+      ["Vervain Infusion", 1],
+      ["Scurvygrass", 1],
+      ["Sneezewort", 2]
+    ],
+    "notes": [
+	  "Horizontal",
+	  "Vertical",
+	  "Vertical",
+	  "Vertical",
+	  "Pinch Out",
+	  "Pinch Out"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Invigoration%20Potion.png"
+  },
+    "Wit-Sharpening Potion": {
+    "description": "Increases your spell's efficacy against Elite Foes in Wizarding Challenges by 50%. Duration: 3 spell casts.",
+    "unlocks": 15,
+    "brewing": "4h 0m",
+    "ingredients": [
+      ["Ginger Root", 4],
+      ["Newt Spleen", 3],
+      ["Ground Scarab Beetles", 1],
+      ["Armadillo Bile", 1]
+    ],
+    "notes": [
+	  "Pinch Out",
+	  "Vertical",
+	  "Vertical",
+	  "Tap"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Wit%20Sharpening%20Potion.png"
+  }
+}
