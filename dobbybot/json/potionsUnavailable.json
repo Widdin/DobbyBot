@@ -1,0 +1,98 @@
+{
+  "Bountiful Brew": {
+    "description": "Not currently available in-game.",
+    "unlocks": 1,
+    "brewing": "2m 30s",
+    "ingredients": [
+      ["Fairy Wings", 3]
+    ],
+    "notes": [
+      "Tap",
+      "Tap",
+      "Clockwise",
+      "Vertical",
+      "Vertical"
+    ],
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_item_potion_BaruffiosBrainElixir.png"
+  },
+  "Draught of Perception": {
+    "description": "Not currently available in-game.",
+    "unlocks": 1,
+    "brewing": "50s",
+    "ingredients": [
+      ["Fairy Wings", 3]
+    ],
+    "notes": [
+	  "Shake",
+	  "Clockwise",
+	  "Counter Clockwise",
+	  "Counter Clockwise",
+	  "Pinch In"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Draught%20of%20Perception.png"
+  },
+  "Felix Felicis Potion": {
+    "description": "Not currently available in-game.",
+    "unlocks": 1,
+    "brewing": "30s",
+    "ingredients": [
+      ["Fairy Wings", 3]
+    ],
+    "notes": [
+	  "Clockwise",
+	  "Pinch In",
+	  "Horizontal",
+	  "Horizontal",
+	  "Pinch Out",
+	  "Shake"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Felix%20Felicis.png"
+  },
+  "Memory Potion": {
+    "description": "Not currently available in-game.",
+    "unlocks": 1,
+    "brewing": "2m 15s",
+    "ingredients": [
+      ["Fairy Wings", 3]
+    ],
+    "notes": [
+	  "Tap",
+	  "Pinch Out",
+      "Horizontal",
+	  "Clockwise"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Memory%20Potion.png"
+  },
+  "Scintillation Potion": {
+    "description": "Not currently available in-game.",
+    "unlocks": 1,
+    "brewing": "2m 50s",
+    "ingredients": [
+      ["Fairy Wings", 3]
+    ],
+    "notes": [
+	  "Clockwise",
+	  "Pinch In",
+	  "Horizontal",
+	  "Horizontal",
+	  "Pinch Out",
+	  "Shake"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Scintillation%20Potion.png"
+  },
+  "Wideye Potion": {
+    "description": "Improves your speed and accuracy, producing a perfect spellcast.",
+    "unlocks": 1,
+    "brewing": "30m",
+    "ingredients": [
+
+    ],
+    "notes": [
+	  "Counter Clockwise",
+	  "Shake",
+	  "Clockwise",
+	  "Clockwise"
+	],
+    "image": "https://wizardsunite.gamepress.gg/sites/wizardsunite/files/styles/medium/public/2019-04/Wideye%20Potion.png"
+  }
+}
